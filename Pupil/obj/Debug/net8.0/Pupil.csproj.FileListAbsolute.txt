@@ -1,0 +1,14 @@
+D:\Mohirdev\+2025 homework\Pupil\Pupil\bin\Debug\net8.0\Pupil.exe
+D:\Mohirdev\+2025 homework\Pupil\Pupil\bin\Debug\net8.0\Pupil.deps.json
+D:\Mohirdev\+2025 homework\Pupil\Pupil\bin\Debug\net8.0\Pupil.runtimeconfig.json
+D:\Mohirdev\+2025 homework\Pupil\Pupil\bin\Debug\net8.0\Pupil.dll
+D:\Mohirdev\+2025 homework\Pupil\Pupil\bin\Debug\net8.0\Pupil.pdb
+D:\Mohirdev\+2025 homework\Pupil\Pupil\obj\Debug\net8.0\Pupil.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohirdev\+2025 homework\Pupil\Pupil\obj\Debug\net8.0\Pupil.AssemblyInfoInputs.cache
+D:\Mohirdev\+2025 homework\Pupil\Pupil\obj\Debug\net8.0\Pupil.AssemblyInfo.cs
+D:\Mohirdev\+2025 homework\Pupil\Pupil\obj\Debug\net8.0\Pupil.csproj.CoreCompileInputs.cache
+D:\Mohirdev\+2025 homework\Pupil\Pupil\obj\Debug\net8.0\Pupil.dll
+D:\Mohirdev\+2025 homework\Pupil\Pupil\obj\Debug\net8.0\refint\Pupil.dll
+D:\Mohirdev\+2025 homework\Pupil\Pupil\obj\Debug\net8.0\Pupil.pdb
+D:\Mohirdev\+2025 homework\Pupil\Pupil\obj\Debug\net8.0\Pupil.genruntimeconfig.cache
+D:\Mohirdev\+2025 homework\Pupil\Pupil\obj\Debug\net8.0\ref\Pupil.dll
