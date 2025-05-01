@@ -1,0 +1,14 @@
+C:\Users\Чермет\source\repos\CarsWIthPrice\CarsWIthPrice\bin\Debug\net8.0\CarsWIthPrice.exe
+C:\Users\Чермет\source\repos\CarsWIthPrice\CarsWIthPrice\bin\Debug\net8.0\CarsWIthPrice.deps.json
+C:\Users\Чермет\source\repos\CarsWIthPrice\CarsWIthPrice\bin\Debug\net8.0\CarsWIthPrice.runtimeconfig.json
+C:\Users\Чермет\source\repos\CarsWIthPrice\CarsWIthPrice\bin\Debug\net8.0\CarsWIthPrice.dll
+C:\Users\Чермет\source\repos\CarsWIthPrice\CarsWIthPrice\bin\Debug\net8.0\CarsWIthPrice.pdb
+C:\Users\Чермет\source\repos\CarsWIthPrice\CarsWIthPrice\obj\Debug\net8.0\CarsWIthPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Чермет\source\repos\CarsWIthPrice\CarsWIthPrice\obj\Debug\net8.0\CarsWIthPrice.AssemblyInfoInputs.cache
+C:\Users\Чермет\source\repos\CarsWIthPrice\CarsWIthPrice\obj\Debug\net8.0\CarsWIthPrice.AssemblyInfo.cs
+C:\Users\Чермет\source\repos\CarsWIthPrice\CarsWIthPrice\obj\Debug\net8.0\CarsWIthPrice.csproj.CoreCompileInputs.cache
+C:\Users\Чермет\source\repos\CarsWIthPrice\CarsWIthPrice\obj\Debug\net8.0\CarsWIthPrice.dll
+C:\Users\Чермет\source\repos\CarsWIthPrice\CarsWIthPrice\obj\Debug\net8.0\refint\CarsWIthPrice.dll
+C:\Users\Чермет\source\repos\CarsWIthPrice\CarsWIthPrice\obj\Debug\net8.0\CarsWIthPrice.pdb
+C:\Users\Чермет\source\repos\CarsWIthPrice\CarsWIthPrice\obj\Debug\net8.0\CarsWIthPrice.genruntimeconfig.cache
+C:\Users\Чермет\source\repos\CarsWIthPrice\CarsWIthPrice\obj\Debug\net8.0\ref\CarsWIthPrice.dll
